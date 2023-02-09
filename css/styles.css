@@ -1,0 +1,38 @@
+body {
+  background-image: url("../pretty1.jpg");
+  background-repeat:no-repeat ;
+  background-position:center ;
+  background-attachment: fixed;
+  background-color: black
+}
+
+h1 {
+  color: rgb(250, 250, 250);
+  font-family: papyrus, fantasy;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+p {text-align: center;}
+div {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+h3 {
+  color:blueviolet
+}
+ul {border-style: double; border-color: deeppink}
+
+.about-me-text {
+  color:rgb(15, 16, 17);
+  border-style: double; 
+  border-color: deeppink;
+  font-family: garamond, Times, serif;
+  font-size: 20px;
+  text-align: center;
+}
+hr {color:deeppink}    
